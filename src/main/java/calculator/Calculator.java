@@ -7,8 +7,9 @@ package calculator;
 
 /**
  *
- * @author jamalahmed
+ * @author jamal ahmed
  */
+//t
 public class Calculator implements ICalculator{
 
     @Override
